@@ -1,8 +1,0 @@
-{
-  "name": "cybrow-gaming",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'static'",
-    "start": "echo 'static'"
-  }
-}
